@@ -1,0 +1,2 @@
+# pythonlinkedlist
+linked list python
